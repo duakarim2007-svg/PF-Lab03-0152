@@ -1,2 +1,15 @@
 # PF-lab03-0152
-I am dua kareem, My programming interests are learning python, C++ , java and working on data bases and mern stack. 
+## All about me
+I am **Dua kareem**, My programming interests are learning _python, C++ , java_ and working on _data bases_ and _mern stack_. 
+<br/>
+My hobbies are:
+<br/>
+- Reading
+- Writing
+- Teaching
+- Going to amusement parks
+<br/>
+My subjects in A level were
+1. Maths
+2. Physics
+3. Computer Science
