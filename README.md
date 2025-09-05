@@ -10,8 +10,7 @@ My hobbies are:
 - Going to amusement parks
 <br/>
 My subjects in A level were:
-<br/>
-1. Maths
-2. Physics
-3. Computer science
- 
+
+1. Maths  
+2. Physics  
+3. Computer Science
