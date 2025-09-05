@@ -9,7 +9,7 @@ My hobbies are:
 - Teaching
 - Going to amusement parks
 <br/>
-My subjects in A level were:
+ My subjects in A level were:
 <br/>
  1. Maths
  2. Physics
